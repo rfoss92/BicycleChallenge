@@ -1,4 +1,4 @@
-Coding Challenge for Meeting Protocal
+Coding Challenge for Meeting Protocol
 
 By Ryan Foss
 
